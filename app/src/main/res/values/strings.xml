@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuickNews</string>
+    <string name="quicknews">QuickNews</string>
+    <string name="category">category</string>
+    <string name="subheadings">subheadings</string>
+    <string name="headlines">Headlines</string>
+    <string name="newshead">NewsHead</string>
+</resources>
